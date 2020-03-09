@@ -4,5 +4,5 @@ if __name__ == '__main__':
     print('building lib!!!!!!!!! ...')
     time.sleep(10)
     print('starting db...')
-    time.sleep(7)
+    time.sleep(17)
     print('done!')
