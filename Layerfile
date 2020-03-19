@@ -6,4 +6,4 @@ WORKDIR /app
 COPY . .
 RUN python3 setup_ci.py
 RUN python3 test.py
-
+ARTIFACT PUBLIC test.py
